@@ -25,3 +25,4 @@ else:
 print(f"Result of {num1} and {num2}: ", result)
 
 # This is the basic and perfect calculator
+
