@@ -22,4 +22,4 @@ else:
 
 # Print result
 print("Result:", result)
-# This is repeate calculator
+# This is basic and perfect calculator
