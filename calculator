@@ -1,4 +1,4 @@
-# Simple Calculator Program
+# Simple Calculator Program for learning
 
 # Take input from user
 num1 = float(input("Enter your first number: "))
